@@ -22,10 +22,6 @@ Building a complete Python installation requires the use of various additional t
 
 On macOS, there are additional configure and build options related to macOS framework and universal builds. Refer to Mac/README.rst.
 
-On Windows, see PCbuild/readme.txt.
-
-To build Windows installer, see Tools/msi/README.txt.
-
 If you wish, you can create a subdirectory and invoke configure from there. For example:
 
 mkdir debug
